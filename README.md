@@ -13,7 +13,7 @@
 
 **この攻撃的なプロジェクトを立ち上げた主な目的は、セキュリティ研究者を支援し、商用HTTPローダー型ボットネットの理解を深めることでした。このプロジェクトがマルウェア研究コミュニティに貢献し、効率的な対策が開発されることを期待しています。**
 
-**UBoatの使用は、相互の事前の同意がない場合、犯罪とみなされる可能性があります。適用される国の法律に従うことは、ユーザーの責任です。作者は、本プログラムの誤用や損害について、いかなる責任も負わず、また、責任を負いません。**
+**UBoatの使用は、相互の事前の同意がない場合、犯罪とみなされる可能性があります。適用される国の法律に従うことは、ユーザーの責任です。作者は、本プログラムの誤用や損害について、いかなる責任も負いません。**
 
 ## ボットネットとは？
 https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets-the-dark-side-of-an-standard-protocol.html
@@ -25,18 +25,18 @@ https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets-the-dark-sid
 - コントロールを失わないための機能
 - 接続の秘匿性（フォールバックサーバーアドレスまたはドメインを使用）。
 - DDoS攻撃の機能(TCP & UDP Flood)。
-- Task Creation System (Altering system HWID, Country, IP, OS.System).
-- Remote command execution.
-- Update and uninstall other malware.
-- Download and execute other malware.
-- Active as well as a passive key-logger.
-- Enable Windows RDP.
-- Plugin system for easy feature updates.
+- タスク作成システム(システムのHWID、国、IP、OS.Systemを変更する。).
+- 遠隔でコマンドを実行
+- 他のマルウェアのアップデートやアンインストールを行う。
+- 他のマルウェアをダウンロードし、実行する。
+- 積極的なキーロガーだけでなく、消極的なキーロガーも。
+- Windows RDPを有効にする。
+- プラグインシステムにより、簡単に機能アップデートが可能。
 
-## Getting started ?
+## はじめに
 
-- Download the bot from **https://github.com/Souhardya/UBoat/releases**
-- Follow the wiki at **https://github.com/Souhardya/UBoat/wiki**
+- ボットのダウンロードはこちらから **https://github.com/Souhardya/UBoat/releases**
+-  **https://github.com/Souhardya/UBoat/wiki** でwikiをフォローしてください。
 
 
 ## Contributors & Maintainers
